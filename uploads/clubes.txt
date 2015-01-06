@@ -1,0 +1,5 @@
+clube;jogos;pontos
+SLB;12;36
+FCP;12;33
+VSC;12;31
+SCP;12;30
